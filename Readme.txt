@@ -1,3 +1,4 @@
-﻿こんにちは、SourceTree
+5
+こんにちは、SourceTree
 ブランチでの作業
 6
